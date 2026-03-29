@@ -82,6 +82,7 @@ mars-segmentation/
 │   └── plots/
 └── docs/
     └── report.pdf
+```
 
 ## Dataset
 
