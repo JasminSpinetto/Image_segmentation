@@ -1,0 +1,59 @@
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Logs / temp
+# =========================
+*.log
+tmp/
+temp/
+
+# =========================
+# Dataset (VERY IMPORTANT)
+# =========================
+data/
+training_images/
+test_images/
+*.npz
+
+# =========================
+# Large files (optional)
+# =========================
+*.h5
+*.ckpt
+*.pt
+*.pth
+
+# =========================
+# Results (keep only key outputs)
+# =========================
+# If results become large:
+# results/*
+# !results/*.png
