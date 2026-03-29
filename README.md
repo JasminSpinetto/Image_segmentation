@@ -96,7 +96,7 @@ This project is based on starter code provided by Alberto Archetti, licensed und
 
 The original code has been significantly modified and extended for this project.
 
-This project has been done in collaboration with Luis Felipe Realpe. 
+This project has been done in collaboration with Luis Felipe Epia Realpe ([Felipe-Epia](https://github.com/fffeelipe))
 
 ## Key Learnings
 - Designing segmentation models for low-quality data
